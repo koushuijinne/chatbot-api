@@ -13,10 +13,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="chatbot-api" target="16" />
+      <module name="chatbot-api" target="8" />
       <module name="chatbot-api-application" target="16" />
       <module name="chatbot-api-domain" target="16" />
-      <module name="chatbot-api-infrastructure" target="16" />
+      <module name="chatbot-api-infrastructure" target="8" />
       <module name="chatbot-api-interfaces" target="16" />
     </bytecodeTargetLevel>
   </component>
